@@ -1,0 +1,13 @@
+# Normalize line endings
+public/* linguist-vendored
+*.woff2 binary
+*.yml linguist-detectable=false
+src/**/*.js linguist-detectable
+
+Cargo.lock linguist-generated
+
+*.htm linguist-vendored
+*.ico binary
+
+**/*.js linguist-detectable
+# eof e82f261c
